@@ -13,6 +13,7 @@
 		B54C1D3D20F3C5E40013304C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B54C1D3B20F3C5E40013304C /* Main.storyboard */; };
 		B54C1D3F20F3C5E50013304C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B54C1D3E20F3C5E50013304C /* Assets.xcassets */; };
 		B54C1D4220F3C5E50013304C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B54C1D4020F3C5E50013304C /* LaunchScreen.storyboard */; };
+		B54C1D4A20F3C6AC0013304C /* Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C1D4920F3C6AC0013304C /* Assignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B54C1D3E20F3C5E50013304C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B54C1D4120F3C5E50013304C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B54C1D4320F3C5E50013304C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B54C1D4920F3C6AC0013304C /* Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		B54C1D2920F3C5E40013304C = {
 			isa = PBXGroup;
 			children = (
+				B54C1D4920F3C6AC0013304C /* Assignment.swift */,
 				B54C1D3420F3C5E40013304C /* Assignment Notebook */,
 				B54C1D3320F3C5E40013304C /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B54C1D4A20F3C6AC0013304C /* Assignment.swift in Sources */,
 				B54C1D3A20F3C5E40013304C /* DetailViewController.swift in Sources */,
 				B54C1D3820F3C5E40013304C /* MasterViewController.swift in Sources */,
 				B54C1D3620F3C5E40013304C /* AppDelegate.swift in Sources */,

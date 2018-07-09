@@ -42,7 +42,6 @@
 		B54C1D2920F3C5E40013304C = {
 			isa = PBXGroup;
 			children = (
-				B54C1D4920F3C6AC0013304C /* Assignment.swift */,
 				B54C1D3420F3C5E40013304C /* Assignment Notebook */,
 				B54C1D3320F3C5E40013304C /* Products */,
 			);
@@ -59,6 +58,7 @@
 		B54C1D3420F3C5E40013304C /* Assignment Notebook */ = {
 			isa = PBXGroup;
 			children = (
+				B54C1D4920F3C6AC0013304C /* Assignment.swift */,
 				B54C1D3520F3C5E40013304C /* AppDelegate.swift */,
 				B54C1D3720F3C5E40013304C /* MasterViewController.swift */,
 				B54C1D3920F3C5E40013304C /* DetailViewController.swift */,
